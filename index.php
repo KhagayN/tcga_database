@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html>
 <head>
     <link rel="shortcut icon" href="http://www.med.nyu.edu/school/sites/all/themes/nyulmc/favicon.ico" type='image/x-icon' />
